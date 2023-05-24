@@ -1,0 +1,15 @@
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction{
+    bottom: 22px;
+}
+.swiper-pagination-bullet-active{
+    background: #303ab2;
+}
+.swiper-pagination{
+    position: relative;
+}
+hashtag{
+    font-family: ProximaNova-Semibold;
+}
+hashtag::before{
+    content: '#';
+}

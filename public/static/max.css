@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ProximaNova-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('ProximaNova Regular'), local('ProximaNova-Regular'), url(https://i1.lmsin.net/website_images/brand_exp/fonts/Proxima-Nova-Regular/ProximaNova-Regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'ProximaNova-Semibold';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('ProximaNova Semibold'), local('ProximaNova-Semibold'), url(https://i1.lmsin.net/website_images/brand_exp/fonts/Proxima-Nova-SemiBold/ProximaNova-Semibold.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'ProximaNova-Bold';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: local('ProximaNova Bold'), local('ProximaNova-Bold'), url(https://i1.lmsin.net/website_images/brand_exp/fonts/Proxima-Nova-Bold/ProximaNova-Bold.woff2) format('woff2');
+}
